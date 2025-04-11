@@ -6,9 +6,9 @@ export default `<!doctype html>
   <base href="/ticTacToe/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-<link rel="stylesheet" href="styles-5INURTSO.css"></head>
+<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}html,body{margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}@-webkit-keyframes button-hero-basic-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #f7f7fc;opacity:.8}}@-webkit-keyframes button-hero-primary-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #b18aff;opacity:.8}}@-webkit-keyframes button-hero-success-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #2ce69b;opacity:.8}}@-webkit-keyframes button-hero-warning-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #ffc94d;opacity:.8}}@-webkit-keyframes button-hero-danger-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #ff708d;opacity:.8}}@-webkit-keyframes button-hero-info-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #42aaff;opacity:.8}}@-webkit-keyframes button-hero-control-pulse{0%{box-shadow:none;opacity:.3}to{box-shadow:0 0 1rem #fff;opacity:.8}}</style><link rel="stylesheet" href="styles-SJIWKGM4.css" media="print" onload="this.media='all'"><noscript><link rel="stylesheet" href="styles-SJIWKGM4.css"></noscript></head>
 <body ngcm="">
   <app-root></app-root>
-<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-DJRJDXJS.js" type="module"></script></body>
+<script src="polyfills-FFHMD2TL.js" type="module"></script><script src="main-ZXKT2GL7.js" type="module"></script></body>
 </html>
 `;

@@ -39,9 +39,9 @@ export class BoardComponent implements OnInit{
     if(!this.squares[idx]){
       this.squares.splice(idx , 1 , this.player);
       this.xIsNext = !this.xIsNext;
+      this.noOfMoves++;
     }
 
-    this.noOfMoves++;
     this.winner = this.calculateWinner();
     console.log(`moves = ${this.noOfMoves} winner = ${this.winner}`);
     if(this.noOfMoves === 9 && this.winner===null || this.winner){
